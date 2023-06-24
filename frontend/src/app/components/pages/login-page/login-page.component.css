@@ -1,0 +1,35 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin-top: 3rem;
+}
+
+.input-container {
+  margin-bottom: 1rem;
+}
+
+.details {
+  width: 25rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.error-list {
+  color: red;
+}
+
+.register {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  width: 100%;
+}

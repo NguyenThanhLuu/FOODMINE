@@ -1,0 +1,1 @@
+export const PAYMENT_ID = 'NGUYEN_THANH_LUU_0981861639';

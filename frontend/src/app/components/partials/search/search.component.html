@@ -1,0 +1,4 @@
+<div class="search">
+  <input #searchInput [value]="searchValue" (keyup.enter) ="changeUrlWithSearchKey(searchInput.value)" placeholder="Search Food Mine!"/>
+  <button (click)="changeUrlWithSearchKey(searchInput.value)">Search</button>
+</div>
